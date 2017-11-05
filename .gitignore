@@ -1,7 +1,8 @@
 # OS X
 .DS_Store*
-Icon?
 ._*
+Icon?
+!/src/icons
 
 # Windows
 Thumbs.db
